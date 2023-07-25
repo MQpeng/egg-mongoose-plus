@@ -1,5 +1,5 @@
 {
-  "name": "egg-mongoose",
+  "name": "@tonyer/egg-mongoose",
   "version": "3.3.1",
   "description": "egg mongoose plugin",
   "eggPlugin": {
